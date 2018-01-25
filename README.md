@@ -1,2 +1,1 @@
-# rihorn.github.io
-Portfolio for Map 673
+Ian's Github Page
